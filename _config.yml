@@ -1,11 +1,11 @@
-title: example.com
+title: blog.com
 description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
 # Social Links
-email: example@gmail.com
-github_username: github
+email: 2273256480@qq.com
+github_username: zhqiqizzz
 twitter_username: twitter
 instagram_username: instagram
 linkedin_username: linkedin
@@ -45,7 +45,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      date: "1900-01-01"
+      date: "2025-01-10"
 
 # Markdown newline activator 
 kramdown:
